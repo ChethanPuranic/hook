@@ -1,10 +1,6 @@
-# amalmurali47/hook
+# Chethan/hook
 
 This repository is part of the PoC for exploiting [CVE-2024-32002](https://github.com/git/git/security/advisories/GHSA-8h77-4q3w-gfgv), a vulnerability in Git that allows RCE during a `git clone` operation. This repository contains the malicious hook used in the exploit.
-
-## Overview
-
-For detailed instructions and an explanation of how the exploit works, refer to the [git_rce repository](https://github.com/amalmurali47/git_rce) or the blog post: <https://amalmurali.me/posts/git-rce>.
 
 ## Disclaimer
 
